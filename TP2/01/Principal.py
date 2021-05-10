@@ -1,5 +1,6 @@
 from ClaseEmail import *
 import csv
+import os
 
 def menu():
     os.system('cls') # clear en linux
