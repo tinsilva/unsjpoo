@@ -1,0 +1,17 @@
+Ejercicio 5
+Datos miembro estáticos y Funciones miembro estáticas 
+Defina una clase “Alumno” que represente un alumno de escuela, y registre los siguientes datos: nombre del alumno, año y división a la que asiste, cantidad de inasistencias, cantidad máxima de inasistencias permitidas y cantidad total de clases (los últimos dos atributos son iguales para todos los alumnos de la escuela).
+
+Implemente un programa que: 
+
+1- Genere una lista que permita almacenar instancias de la clase “Alumno”. Los datos de los alumnos se leen desde un archivo separado por comas. 
+
+2- Presente un menú de opciones permita: a- Ingresar un año y división, y liste nombre y porcentaje de inasistencias de los alumnos cuya cantidad de inasistencias supera la cantidad máxima de inasistencias permitidas. El listado debe tener el siguiente formato: 
+
+ Alumno        Porcentaje 
+
+ *******       **% 
+
+ *******       **% 
+
+ b- Modificar la cantidad máxima de inasistencias permitidas.

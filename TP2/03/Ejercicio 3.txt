@@ -1,0 +1,45 @@
+Ejercicio 3
+ Listas bidimensionales
+
+En una bodega se desea guardar la información de cada uno de los 20 camiones que utilizan para trasladar la producción durante la cosecha que transcurre en un lapso de 45 días corridos.
+
+a- Defina la clase camión que posea como atributos: un identificador (un valor numérico de 1 a
+20), nombre del conductor, patente del camión, marca del camión y tara (peso del camión
+vacío).
+
+b- Defina una clase cosecha que contenga como atributo una lista bidimensional que permita registrar la cantidad de kilos por día que cada camión descarga en la bodega. El ingreso es por teclado, se ingresa identificador de camión, día, y el peso del camión cargado (el peso que informa la báscula de la bodega), para obtener los kilogramos de uva descargados se calcula la diferencia entre el peso del camión cargado y la tara. Un camión puede realizar varios viajes
+desde la finca a la bodega.
+
+c- Implemente un programa que:
+
+1- Lea los datos desde un archivo separado por comas y genere las instancias correspondientes de la clase “Camión”, almacenándolas en una lista.
+
+2- Leer los datos de la cosecha desde un archivo separado por comas.
+
+3- Presente un menú de opciones permita realizar las siguientes tareas:
+
+3-1- Dado el número de identificador de un camión mostrar, la cantidad total de
+kilos descargados.
+
+3-2- Dado un número correspondiente a un día mostrar un listado con el
+siguiente formato.
+
+ 
+
+PATENTE
+
+CONDUCTOR
+
+CANTIDAD DE KILOS
+
+********
+
+**********
+
+************
+
+*********
+
+**********
+
+************

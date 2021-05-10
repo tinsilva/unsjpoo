@@ -1,0 +1,28 @@
+Tarea de Investigación
+Buscar en la web otros métodos de utilidad que considere importantes a la hora de usar listas en Python, puede incluir sobrecarga de operadores, para utilizar luego los métodos de ordenamiento provistos por las listas. Los ejemplos que dé, deberán aplicarse sobre objetos que pertenezcan a clases definidas por el programador, no se permiten ejemplos que manipulen enteros, flotantes, strings, etc.
+
+Se deberán utilizar buscadores académicos y el sitio oficial de Python.
+
+Fecha límite para la presentación: Lunes 26/04/2021 a las 0:59h.
+
+Pautas para el trabajo
+
+Trabajo grupal (no más de dos personas)
+
+El trabajo se escribe en tercera persona, no se admiten frases como: hicimos, tomamos, nosotros probamos, etc., se reemplazan por frases como se hizo, se tomaron, se probaron, se hicieron pruebas con... etc.
+
+Tipografía a usar: Arial 10pts, los títulos deben ir en negrita y el código en cursiva.
+
+Se generará un informe en formato de texto (no más de cinco hojas y no menos de tres), con los métodos más destacados de las Listas en Python, debiendo contar con los siguientes elementos:
+
+Portada
+Introducción
+Palabras clave
+Desarrollo
+Conclusiones
+Bibliografía
+El apartado Desarrollo debe incluir teoría y ejemplos con el código debidamente chequeado y comentado.
+
+Las referencias bibliográficas deben estar en una sola norma, puede elegir entre normas APA o IEEE. Deberá contener al menos dos referencias bibliográficas.
+
+Se proveen los siguientes artículos científicos para leer y ver cómo se redacta.

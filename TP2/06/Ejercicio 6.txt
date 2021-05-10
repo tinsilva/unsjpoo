@@ -1,0 +1,10 @@
+Ejercicio 6
+Sobrecarga de operadores
+
+Dada la clase FechaHora, del ejercicio 4, presente un menú de opciones que permita lo siguiente:
+
+1- Sumar dos objetos de la clase FechaHora, para ello sobrecargue el operador binario suma (+).
+
+2- Restar dos objetos de la clase FechaHora, para ello sobrecargue el operador binario resta (-).
+
+3- Distinguir entre dos objetos FechaHora cuál es mayor, para ello sobrecargue el operador relacional mayor (>).
